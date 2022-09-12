@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.listuser{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+.listuserdetail{
+    margin: 10px;
+}
